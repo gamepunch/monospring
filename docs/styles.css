@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('images/back001.jpg');
+    background-repeat: repeat;
+    background-size: 20%;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+.custom-position {
+    position: absolute;
+}
+
+img[src="images/img1.jpeg"] {
+    top: 350px;
+    left: 50px;
+    width: 100px;
+    height: auto;    
+}
+
+img[src="images/img2.png"] {
+    top: 100px;
+    right: 50px;
+    width: 100px;
+    height: auto;
+}

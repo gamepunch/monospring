@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Allow: /
+# Disallow: /images/
+# Disallow: /css/
+# Disallow: /js/
+
+User-agent: Bingbot
+Allow: /
+# Disallow: /images/
+# Disallow: /css/

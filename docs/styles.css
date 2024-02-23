@@ -1,15 +1,20 @@
-body {
+.main_body {
     font-family: Arial, sans-serif;
     background-image: url('images/back001.jpg');
     background-repeat: repeat;
     background-size: 20%;
 }
 
-h1 {
+.pbody {
+    font-family: Arial, sans-serif;  
+}
+
+
+.ph1 {
     color: blue;
 }
 
-p {
+.pp {
     color: green;
 }
 
@@ -29,4 +34,17 @@ img[src="images/img2.png"] {
     right: 50px;
     width: 100px;
     height: auto;
+}
+
+.pfooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.hP1 {
+    color: rgb(6, 31, 2);
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

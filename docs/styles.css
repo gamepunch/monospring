@@ -1,3 +1,442 @@
+/* =============================================
+   Monospring - Portal Styles
+   ============================================= */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg: #0f1117;
+    --bg2: #1a1d27;
+    --surface: #22263a;
+    --surface-hover: #2c3150;
+    --accent: #7c6cf0;
+    --accent2: #a78bfa;
+    --text: #e8eaf6;
+    --text-muted: #9094b8;
+    --border: #2e3250;
+    --radius: 16px;
+    --shadow: 0 8px 32px rgba(0,0,0,0.45);
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ── Header ── */
+
+.site-header {
+    background: linear-gradient(135deg, #1a1d27 0%, #0f1117 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 24px 40px;
+}
+
+.header-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.site-logo {
+    width: 72px;
+    height: 72px;
+    border-radius: 16px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.site-brand {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.site-title {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    background: linear-gradient(90deg, #a78bfa, #7c6cf0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.site-tagline {
+    font-size: 1rem;
+    color: var(--text-muted);
+    font-weight: 400;
+}
+
+/* ── Main Content ── */
+
+.main-content {
+    flex: 1;
+    padding: 56px 24px 100px;
+}
+
+.cards-grid {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 28px;
+}
+
+/* ── App Cards ── */
+
+.app-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 36px 28px 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: var(--text);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+}
+
+a.app-card:hover {
+    background: var(--surface-hover);
+    transform: translateY(-6px);
+    box-shadow: 0 16px 48px rgba(124, 108, 240, 0.25);
+    border-color: var(--accent);
+}
+
+.app-card.coming-soon {
+    opacity: 0.6;
+    cursor: default;
+}
+
+.card-icon {
+    font-size: 3.5rem;
+    margin-bottom: 16px;
+    line-height: 1;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: var(--text);
+    overflow-wrap: break-word;
+    word-break: break-word;
+    line-height: 1.35;
+}
+
+.card-desc {
+    font-size: 0.92rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    flex: 1;
+    margin-bottom: 24px;
+}
+
+.card-btn {
+    display: inline-block;
+    padding: 10px 28px;
+    background: linear-gradient(135deg, var(--accent), #5b4fe0);
+    color: #fff;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    transition: opacity 0.2s;
+}
+
+a.app-card:hover .card-btn {
+    opacity: 0.9;
+}
+
+.coming-soon-btn {
+    background: var(--bg2);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+}
+
+/* ── Footer ── */
+
+.pfooter {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 14px;
+    background: rgba(15, 17, 23, 0.92);
+    backdrop-filter: blur(8px);
+    border-top: 1px solid var(--border);
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.pfooter a {
+    color: var(--accent2);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.pfooter a:hover {
+    text-decoration: underline;
+}
+
+/* ── Responsive ── */
+
+@media (max-width: 600px) {
+    .site-header {
+        padding: 20px 20px;
+    }
+    .site-title {
+        font-size: 1.5rem;
+    }
+    .main-content {
+        padding: 36px 16px 100px;
+    }
+}
+
+/* ── Intro Pages ── */
+
+.site-header--slim .header-inner {
+    justify-content: space-between;
+}
+
+.site-logo--sm {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+}
+
+.site-brand--row {
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.site-brand--row .site-title {
+    font-size: 1.2rem;
+}
+
+.back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--accent2);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: opacity 0.2s;
+    white-space: nowrap;
+}
+
+.back-btn:hover {
+    opacity: 0.75;
+}
+
+.intro-content {
+    flex: 1;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 100px;
+    width: 100%;
+}
+
+.intro-hero {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.intro-icon {
+    font-size: 5rem;
+    margin-bottom: 16px;
+    line-height: 1;
+}
+
+.intro-title {
+    font-size: clamp(1.5rem, 4vw, 2.4rem);
+    font-weight: 800;
+    margin-bottom: 10px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    line-height: 1.2;
+    background: linear-gradient(90deg, #a78bfa, #7c6cf0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.intro-tagline {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.intro-desc {
+    font-size: 1rem;
+    color: var(--text);
+    line-height: 1.8;
+    margin-bottom: 36px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 22px 26px;
+}
+
+.features-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 14px;
+}
+
+.features-list {
+    list-style: none;
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.features-list li {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 18px;
+    font-size: 0.92rem;
+    color: var(--text);
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.5;
+}
+
+.features-list li::before {
+    content: '✓';
+    color: var(--accent2);
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-top: 1px;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.action-btn {
+    font-size: 1.05rem;
+    padding: 14px 40px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+@media (max-width: 560px) {
+    .features-list {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ── Policy Page ── */
+
+.policy-content {
+    flex: 1;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 100px;
+    width: 100%;
+}
+
+.policy-main-title {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+    background: linear-gradient(90deg, #a78bfa, #7c6cf0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.policy-version {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 32px;
+}
+
+.policy-content p {
+    color: var(--text);
+    line-height: 1.8;
+    margin-bottom: 16px;
+    font-size: 0.95rem;
+}
+
+.policy-content h2 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--accent2);
+    margin-top: 36px;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+}
+
+.policy-content ul {
+    list-style: none;
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.policy-content ul li {
+    color: var(--text);
+    line-height: 1.7;
+    font-size: 0.95rem;
+    padding-left: 20px;
+    position: relative;
+}
+
+.policy-content ul li::before {
+    content: '·';
+    position: absolute;
+    left: 4px;
+    color: var(--accent2);
+    font-weight: 700;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.policy-content a {
+    color: var(--accent2);
+    text-decoration: none;
+}
+
+.policy-content a:hover {
+    text-decoration: underline;
+}
+
+/* ── Legacy classes (kept for other pages) ── */
+
 .main_body {
     font-family: Arial, sans-serif;
     background-image: url('images/back001.jpg');
@@ -5,46 +444,20 @@
     background-size: 20%;
 }
 
-.pbody {
-    font-family: Arial, sans-serif;  
-}
-
-
-.ph1 {
-    color: blue;
-}
-
-.pp {
-    color: green;
-}
-
-.custom-position {
-    position: absolute;
-}
+.pbody { font-family: Arial, sans-serif; }
+.ph1 { color: blue; }
+.pp { color: green; }
+.custom-position { position: absolute; }
 
 img[src="images/img1.jpeg"] {
-    top: 350px;
-    left: 50px;
-    width: 100px;
-    height: auto;    
+    top: 350px; left: 50px; width: 100px; height: auto;
 }
-
 img[src="images/img2.png"] {
-    top: 100px;
-    right: 50px;
-    width: 100px;
-    height: auto;
-}
-
-.pfooter {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
+    top: 100px; right: 50px; width: 100px; height: auto;
 }
 
 .hP1 {
     color: rgb(6, 31, 2);
     font-size: large;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

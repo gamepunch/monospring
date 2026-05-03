@@ -3,86 +3,55 @@
 
 <head>
     <meta charset="UTF-8">
-    <title data-i18n="page-title">Welcome to Monospring</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="page-title">Monospring</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
 
-    <p style="text-align: center;"><img src="images/sungame_logo.png" alt="logo" width="256" height="256" /></p>
+    <header class="site-header">
+        <div class="header-inner">
+            <img src="images/sungame_logo.png" alt="Monospring Logo" class="site-logo">
+            <div class="site-brand">
+                <h1 class="site-title">Monospring</h1>
+                <p class="site-tagline" data-i18n="hero-subtitle">Games &amp; Apps for Everyone</p>
+            </div>
+        </div>
+    </header>
 
-    <!--
-    <iframe src="./sun/index.html" width="480" height="800" frameborder="0" scrolling="yes"></iframe>    
-    <img class="custom-position" src="images/img1.jpeg" alt="Image 1">
-    <img class="custom-position" src="images/img2.png" alt="Image 2">    
-    <img src="https://mazemyth.com/img/DreamShaper_v6_1.jpg" alt="dd of image">
-    -->
-    
+    <main class="main-content">
+        <div class="cards-grid">
+
+            <a href="counter-intro.html" class="app-card">
+                <div class="card-icon">🔢</div>
+                <h2 class="card-title" data-i18n="app-counter-name">Counter</h2>
+                <p class="card-desc" data-i18n="app-counter-desc">A simple, elegant tally counter for everyday use.</p>
+                <span class="card-btn" data-i18n="learn-more">Learn More</span>
+            </a>
+
+            <a href="watersort-intro.html" class="app-card">
+                <div class="card-icon">🧪</div>
+                <h2 class="card-title" data-i18n="app-watersort-name">Water Sort</h2>
+                <p class="card-desc" data-i18n="app-watersort-desc">Sort colorful liquids into matching tubes in this relaxing puzzle game.</p>
+                <span class="card-btn" data-i18n="learn-more">Learn More</span>
+            </a>
+
+            <a href="tarot-intro.html" class="app-card">
+                <div class="card-icon">🔮</div>
+                <h2 class="card-title" data-i18n="app-tarot-name">Tarot</h2>
+                <p class="card-desc" data-i18n="app-tarot-desc">Draw tarot cards and explore their meanings for daily guidance.</p>
+                <span class="card-btn coming-soon-btn" data-i18n="coming-soon">Coming Soon</span>
+            </a>
+
+        </div>
+    </main>
+
     <footer class="pfooter">
         <span data-i18n="footer-text">Here's our</span> <a href="privacy-policy.html" data-i18n="privacy-link">Privacy Policy</a>.
     </footer>
 
-    <script>
-        // 支援的語言列表
-        const supportedLanguages = ['en', 'zh', 'ja', 'ko'];
-        
-        // 檢測瀏覽器語言
-        function detectLanguage() {
-            const browserLang = navigator.language || navigator.userLanguage;
-            
-            // 再檢查主要語言代碼（例如 zh）
-            const mainLang = browserLang.split('-')[0];
-            if (supportedLanguages.includes(mainLang)) {
-                return mainLang;
-            }
-            
-            // 預設使用英文
-            return 'en';
-        }
-
-        // 載入語言檔案
-        async function loadTranslations(lang) {
-            try {
-                const response = await fetch(`locales/${lang}.json`);
-                if (!response.ok) {
-                    throw new Error(`Failed to load ${lang}.json`);
-                }
-                return await response.json();
-            } catch (error) {
-                console.error('Error loading translations:', error);
-                // 如果載入失敗，嘗試載入英文
-                if (lang !== 'en') {
-                    const fallbackResponse = await fetch('locales/en.json');
-                    return await fallbackResponse.json();
-                }
-                return {};
-            }
-        }
-
-        // 應用翻譯
-        function applyTranslations(translations, lang) {
-            document.documentElement.lang = lang;
-            
-            // 更新所有帶有 data-i18n 屬性的元素
-            document.querySelectorAll('[data-i18n]').forEach(element => {
-                const key = element.getAttribute('data-i18n');
-                if (translations[key]) {
-                    if (element.tagName === 'TITLE') {
-                        element.textContent = translations[key];
-                    } else {
-                        element.textContent = translations[key];
-                    }
-                }
-            });
-        }
-
-        // 頁面載入時自動偵測並套用語言
-        document.addEventListener('DOMContentLoaded', async () => {
-            const lang = detectLanguage();
-            const translations = await loadTranslations(lang);
-            applyTranslations(translations, lang);
-        });
-    </script>
+    <script src="i18n.js"></script>
 </body>
 
 </html>

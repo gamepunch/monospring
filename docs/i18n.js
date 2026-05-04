@@ -1,4 +1,4 @@
-const supportedLanguages = ['en', 'zh', 'ja', 'ko'];
+const supportedLanguages = ['en', 'zh', 'ja', 'ko', 'vi'];
 
 function detectLanguage() {
     const urlLang = new URLSearchParams(window.location.search).get('lang');

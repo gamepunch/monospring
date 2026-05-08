@@ -1,6 +1,11 @@
 const supportedLanguages = ['en', 'zh', 'ja', 'ko', 'vi'];
+const LANG_STORAGE_KEY = 'preferred-lang';
 
 function detectLanguage() {
+    const saved = localStorage.getItem(LANG_STORAGE_KEY);
+    if (saved && supportedLanguages.includes(saved)) {
+        return saved;
+    }
     const urlLang = new URLSearchParams(window.location.search).get('lang');
     if (urlLang && supportedLanguages.includes(urlLang)) {
         return urlLang;
@@ -35,8 +40,21 @@ function applyTranslations(translations, lang) {
     });
 }
 
+function initLangSwitcher(currentLang) {
+    const select = document.getElementById('lang-select');
+    if (!select) return;
+    select.value = currentLang;
+    select.addEventListener('change', async () => {
+        const newLang = select.value;
+        localStorage.setItem(LANG_STORAGE_KEY, newLang);
+        const translations = await loadTranslations(newLang);
+        applyTranslations(translations, newLang);
+    });
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     const lang = detectLanguage();
     const translations = await loadTranslations(lang);
     applyTranslations(translations, lang);
+    initLangSwitcher(lang);
 });

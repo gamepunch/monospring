@@ -172,6 +172,32 @@ a.app-card:hover .card-btn {
     border: 1px solid var(--border);
 }
 
+/* ── Language Switcher ── */
+
+.lang-switcher {
+    margin-left: auto;
+}
+
+.lang-switcher select {
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 0.85rem;
+    font-family: inherit;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.2s, background 0.2s;
+    appearance: auto;
+}
+
+.lang-switcher select:hover,
+.lang-switcher select:focus {
+    border-color: var(--accent);
+    background: var(--surface-hover);
+}
+
 /* ── Footer ── */
 
 .pfooter {

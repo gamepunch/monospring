@@ -377,9 +377,75 @@ a.app-card:hover .card-btn {
     display: inline-block;
 }
 
+.store-links {
+    max-width: 960px;
+    margin: 40px auto 0;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.store-link {
+    width: 260px;
+    height: 64px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.store-link:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent2);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.store-badge {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.store-link--counter {
+    height: 56px;
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+.store-link--counter:hover {
+    border: none;
+    transform: translateY(-2px);
+    box-shadow: none;
+}
+
+.store-badge--counter {
+    height: 56px;
+    width: auto;
+}
+
+.trademark-disclaimer {
+    max-width: 960px;
+    margin: 14px auto 0;
+    padding: 0 8px;
+    text-align: center;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    color: var(--text-muted);
+}
+
 @media (max-width: 560px) {
     .features-list {
         grid-template-columns: 1fr;
+    }
+
+    .store-link {
+        width: min(260px, 100%);
     }
 }
 

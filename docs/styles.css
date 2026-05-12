@@ -91,6 +91,7 @@ body {
 }
 
 .cards-grid {
+    width: 100%;
     max-width: 960px;
     margin: 0 auto;
     display: grid;
@@ -99,6 +100,7 @@ body {
 }
 
 .store-area {
+    width: 100%;
     margin-top: auto;
 }
 
@@ -241,6 +243,10 @@ a.app-card:hover .card-btn {
     }
     .main-content {
         padding: 36px 16px 100px;
+    }
+
+    .store-area {
+        margin-top: 28px;
     }
 }
 

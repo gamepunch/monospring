@@ -140,6 +140,15 @@ a.app-card:hover {
     line-height: 1;
 }
 
+.card-icon-img {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
 .card-title {
     font-size: 1.1rem;
     font-weight: 700;
@@ -305,6 +314,15 @@ a.app-card:hover .card-btn {
     font-size: 5rem;
     margin-bottom: 16px;
     line-height: 1;
+}
+
+.intro-icon-img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
 }
 
 .intro-title {

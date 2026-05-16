@@ -143,7 +143,7 @@ a.app-card:hover {
 .card-icon-img {
     width: 3.5rem;
     height: 3.5rem;
-    border-radius: 50%;
+    border-radius: 22%;
     object-fit: cover;
     display: block;
     margin: 0 auto;
@@ -319,7 +319,7 @@ a.app-card:hover .card-btn {
 .intro-icon-img {
     width: 5rem;
     height: 5rem;
-    border-radius: 50%;
+    border-radius: 22%;
     object-fit: cover;
     display: block;
     margin: 0 auto;

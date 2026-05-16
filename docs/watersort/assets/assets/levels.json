@@ -3,73 +3,522 @@
     "1": {
       "type": "normal",
       "tubes": [
-        { "capacity": 4, "slots": [0, 1, 2],     "hidden": [] },
-        { "capacity": 4, "slots": [0, 1],         "hidden": [] },
-        { "capacity": 4, "slots": [1, 2, 0],      "hidden": [] },
-        { "capacity": 4, "slots": [2, 1],         "hidden": [] },
-        { "capacity": 4, "slots": [2, 0],         "hidden": [] }
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0
+          ],
+          "hidden": []
+        }
       ]
     },
     "2": {
       "type": "normal",
       "tubes": [
-        { "capacity": 4, "slots": [1, 2, 3],      "hidden": [] },
-        { "capacity": 4, "slots": [3, 1],         "hidden": [] },
-        { "capacity": 4, "slots": [1, 2, 3],      "hidden": [] },
-        { "capacity": 4, "slots": [2, 1],         "hidden": [] },
-        { "capacity": 4, "slots": [3, 2],         "hidden": [] }
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            3
+          ],
+          "hidden": []
+        }
       ]
-    },    
+    },
     "5": {
       "type": "mystery",
       "tubes": [
-        { "capacity": 4, "slots": [0, 0, 2, 1], "hidden": [false, true, true, false] },
-        { "capacity": 4, "slots": [1, 1, 0, 2], "hidden": [false, false, true, false] },
-        { "capacity": 4, "slots": [2, 2, 1, 0], "hidden": [false, true, false, false] },
-        { "capacity": 4, "slots": [],            "hidden": [] }
-        
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            2,
+            1
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            0,
+            2
+          ],
+          "hidden": [
+            false,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            1,
+            0
+          ],
+          "hidden": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
       ]
     },
-    "6": {
-      "type": "mystery",
-      "tubes": [
-        { "capacity": 4, "slots": [0, 0, 1], "hidden": [false, true, false] },
-        { "capacity": 4, "slots": [1, 0, 2], "hidden": [false, true, false] },
-        { "capacity": 4, "slots": [2, 2, 1, 0], "hidden": [false, true, false, false] },
-        { "capacity": 4, "slots": [2, 1],        "hidden": [true, false] },
-        { "capacity": 4, "slots": [],            "hidden": [] }
-      ]
-    },    
     "10": {
       "type": "mixedCap",
       "tubes": [
-        { "capacity": 3, "slots": [0, 1, 2],    "hidden": [] },
-        { "capacity": 4, "slots": [1, 2, 1],    "hidden": [] },
-        { "capacity": 5, "slots": [2, 0, 0],    "hidden": [] },
-        { "capacity": 5, "slots": [2, 1],       "hidden": [] },
-        { "capacity": 5, "slots": [0],          "hidden": [] }
-      ]
-    },
-    "13": {
-      "type": "mixedCap",
-      "tubes": [
-        { "capacity": 4, "slots": [0, 0, 2], "hidden": [] },
-        { "capacity": 5, "slots": [1, 0, 2], "hidden": [] },
-        { "capacity": 4, "slots": [2, 2, 1], "hidden": [] },
-        { "capacity": 3, "slots": [0, 1],    "hidden": [] },
-        { "capacity": 4, "slots": [2, 1],    "hidden": [] }
+        {
+          "capacity": 3,
+          "slots": [
+            0,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            0
+          ],
+          "hidden": []
+        }
       ]
     },
     "15": {
       "type": "mystery",
       "tubes": [
-        { "capacity": 4, "slots": [0, 0, 2, 1], "hidden": [false, true, true, false] },
-        { "capacity": 4, "slots": [1, 1, 0, 2], "hidden": [false, false, true, false] },
-        { "capacity": 4, "slots": [2, 2, 1],    "hidden": [false, true, false] },
-        { "capacity": 4, "slots": [0],          "hidden": [] },
-        { "capacity": 4, "slots": [],           "hidden": [] }
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            2,
+            1
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            0,
+            2
+          ],
+          "hidden": [
+            false,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            1
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
       ]
-    }    
+    },
+    "20": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "25": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            1
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            2
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            1,
+            0
+          ],
+          "hidden": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "30": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 3,
+          "slots": [
+            9,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            7,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            6,
+            5,
+            9,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            9,
+            2,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "35": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4,
+            4
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            6,
+            7
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            8,
+            5,
+            6
+          ],
+          "hidden": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            8,
+            7
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            6,
+            8
+          ],
+          "hidden": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7,
+            4
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        }
+      ]
+    }
   }
 }
-

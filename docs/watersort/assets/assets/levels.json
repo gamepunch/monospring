@@ -363,6 +363,117 @@
         }
       ]
     },
+    "8": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            9,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            10,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            10,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            10,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "9": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
     "10": {
       "type": "mixedCap",
       "tubes": [
@@ -405,6 +516,230 @@
           "capacity": 5,
           "slots": [
             0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "11": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "12": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "13": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "14": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4
           ],
           "hidden": []
         }
@@ -470,18 +805,233 @@
         }
       ]
     },
-    "20": {
-      "type": "mixedCap",
+    "16": {
+      "type": "normal",
       "tubes": [
         {
           "capacity": 4,
           "slots": [
+            3,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             0,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            10,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "17": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "18": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             0,
             2
           ],
           "hidden": []
         },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "19": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "20": {
+      "type": "mixedCap",
+      "tubes": [
         {
           "capacity": 5,
           "slots": [
@@ -494,7 +1044,24 @@
         {
           "capacity": 4,
           "slots": [
+            0,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             2,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             2,
             1
           ],
@@ -507,12 +1074,264 @@
             1
           ],
           "hidden": []
+        }
+      ]
+    },
+    "21": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1
+          ],
+          "hidden": []
         },
         {
           "capacity": 4,
           "slots": [
             2,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
             1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "22": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "23": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "24": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2
           ],
           "hidden": []
         }
@@ -580,13 +1399,23 @@
         }
       ]
     },
-    "30": {
-      "type": "mixedCap",
+    "26": {
+      "type": "normal",
       "tubes": [
         {
-          "capacity": 3,
+          "capacity": 4,
           "slots": [
-            9,
+            4,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            10,
             2
           ],
           "hidden": []
@@ -594,8 +1423,217 @@
         {
           "capacity": 4,
           "slots": [
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             6,
+            10,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            10,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "27": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
             7,
+            1,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "28": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "29": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             7,
             5
           ],
@@ -604,29 +1642,127 @@
         {
           "capacity": 4,
           "slots": [
-            5,
-            2,
-            9
-          ],
-          "hidden": []
-        },
-        {
-          "capacity": 5,
-          "slots": [
-            6,
-            5,
-            9,
+            1,
+            4,
             2
           ],
           "hidden": []
         },
         {
+          "capacity": 4,
+          "slots": [
+            7,
+            5,
+            6
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "30": {
+      "type": "mixedCap",
+      "tubes": [
+        {
           "capacity": 5,
           "slots": [
+            4,
+            1,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            0,
+            0,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
             2,
-            9,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "31": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
             2,
-            7
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            3,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            2
           ],
           "hidden": []
         },
@@ -634,14 +1770,226 @@
           "capacity": 4,
           "slots": [
             5,
-            7
+            4,
+            1
           ],
           "hidden": []
         },
         {
           "capacity": 4,
           "slots": [
-            6
+            5,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            3,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "32": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "33": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "34": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            2
           ],
           "hidden": []
         }
@@ -734,6 +2082,625 @@
         }
       ]
     },
+    "36": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "37": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            1,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "38": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "39": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            5,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "40": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 3,
+          "slots": [
+            9,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            7,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            6,
+            5,
+            9,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            9,
+            2,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "41": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            7,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            7,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            5,
+            3,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "42": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            3,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "43": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            9,
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            10,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            9,
+            0,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            10,
+            9,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "44": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
     "45": {
       "type": "mystery",
       "tubes": [
@@ -818,6 +2785,6669 @@
             false,
             false
           ]
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "46": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            3,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "47": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "48": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            7,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            3,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            7,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "49": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            9,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            3,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            0,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            6,
+            6,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "50": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 3,
+          "slots": [
+            3,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            3,
+            7,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            7
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "51": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            0,
+            3
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "52": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "53": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            3
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "54": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "55": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            1,
+            1
+          ],
+          "hidden": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            3
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            2,
+            4
+          ],
+          "hidden": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            2
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        }
+      ]
+    },
+    "56": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "57": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            3,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "58": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            3,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "59": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "60": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 6,
+          "slots": [
+            0,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            5,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            0,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "61": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "62": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            4,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            6,
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            6,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "63": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "64": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            4,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6,
+            5,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "65": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            5
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            4
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            1,
+            3
+          ],
+          "hidden": [
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            2
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1,
+            2,
+            3
+          ],
+          "hidden": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            2
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    "66": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            1,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "67": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            5,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            3,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            6,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            6,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "68": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            2,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "69": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            2,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "70": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 5,
+          "slots": [
+            4,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            4,
+            1,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "71": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            4,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            6,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            3,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "72": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            3,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            5,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "73": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            5,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            4,
+            1,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            6,
+            2,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "74": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            9,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            0,
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            9,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1,
+            9,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "75": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            1
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4
+          ],
+          "hidden": [
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            2,
+            3
+          ],
+          "hidden": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            4,
+            5
+          ],
+          "hidden": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            2,
+            3
+          ],
+          "hidden": [
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            2
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    "76": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            6,
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            0,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "77": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            8,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            8,
+            10,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            8,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            10,
+            10,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            8,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            10,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "78": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            8,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            1,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            6,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6,
+            4,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            5,
+            6,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "79": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            4,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            10,
+            10,
+            6,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            6,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "80": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 6,
+          "slots": [
+            1,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            2,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            6,
+            6,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            6,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            4,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "81": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            1,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            3,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            3,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            7,
+            6,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            6,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "82": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            7,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            9,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            2,
+            6,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            7,
+            2,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            9,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            0,
+            3
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "83": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            9,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            9,
+            7,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            1,
+            5,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            7,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            6,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            4,
+            6,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            6,
+            7,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "84": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            7,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            11,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            7,
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            11,
+            11
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            0,
+            6,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            11
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "85": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            1
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            6,
+            4
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6,
+            4
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            3
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            0,
+            4
+          ],
+          "hidden": [
+            true,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            5
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            1,
+            2
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            5
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    "86": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            5,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            7,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            3,
+            6,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            2,
+            7,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "87": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            9,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            9,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            9,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "88": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1,
+            5,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            7,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            6,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "89": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            6,
+            2,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            2,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            6,
+            1
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "90": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 6,
+          "slots": [
+            3,
+            7,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 6,
+          "slots": [
+            3,
+            5,
+            6,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            4,
+            2,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            4,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            7,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            4,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "91": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            4,
+            7,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            4,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            6,
+            8,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            7,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7,
+            6,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "92": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            7,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            8,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            5,
+            2,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            6,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            7,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            4,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            0,
+            0
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "93": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            8,
+            1,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            7,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6,
+            7,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            6,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            0,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "94": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            8,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            8,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            7,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            2,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            6,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "95": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            0,
+            7
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            0,
+            5,
+            8
+          ],
+          "hidden": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            2
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            8,
+            6
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            0,
+            3
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6,
+            7,
+            4
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            7,
+            3,
+            4
+          ],
+          "hidden": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            8,
+            6
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        }
+      ]
+    },
+    "96": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            10,
+            3,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            10,
+            5,
+            8,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            9,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            1,
+            1,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            7,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "97": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            8,
+            1,
+            11
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            6,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            5,
+            8,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            5,
+            1,
+            11
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            5,
+            11
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            1,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            1,
+            8,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            6,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            11,
+            3,
+            6,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "98": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            2,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            8,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            0,
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            8,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            5,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            3,
+            8,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "99": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            7,
+            0,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7,
+            8,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            8,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            1,
+            3,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            8,
+            5,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            6,
+            0,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "100": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            8,
+            4,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            3,
+            1,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            4,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            5,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            8,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            6,
+            7
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "101": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            2,
+            4,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            8,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            2,
+            1,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            5,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            8,
+            9,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            7,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            6,
+            3,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "102": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            2,
+            9,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            1,
+            0,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            0,
+            2,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            0,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            3,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            5,
+            4,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            5,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            8,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            6,
+            1,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            7,
+            3,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "103": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            2,
+            9,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            5,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            8,
+            8,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            6,
+            8,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            9,
+            3,
+            9
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "104": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            7,
+            6,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            6,
+            1,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            7,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            8,
+            0,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            5,
+            8,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            5,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            5,
+            6,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            4,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            6,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "105": {
+      "type": "mystery",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            5,
+            1
+          ],
+          "hidden": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            5,
+            8
+          ],
+          "hidden": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            7
+          ],
+          "hidden": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            0,
+            2,
+            6
+          ],
+          "hidden": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            8,
+            6,
+            5
+          ],
+          "hidden": [
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            1
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            3,
+            5,
+            0
+          ],
+          "hidden": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4,
+            2
+          ],
+          "hidden": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            6,
+            6,
+            1
+          ],
+          "hidden": [
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            2
+          ],
+          "hidden": [
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    "106": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            7,
+            4,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7,
+            4,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            8,
+            7,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            3,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            1,
+            3,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            5,
+            0,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            6,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            2,
+            1,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "107": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            7,
+            0,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            9,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            0,
+            8,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            9,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            1,
+            1,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            0,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            3,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            5,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            4,
+            3,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "108": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            6,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            0,
+            6,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            1,
+            0,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            8,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            8,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            3,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            0,
+            7,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            5,
+            2,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            2,
+            5
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "109": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            2,
+            6,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            2,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            9,
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            7,
+            8,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            3,
+            4,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            4,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            9,
+            8,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            7,
+            9,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            3,
+            0,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            4,
+            1,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "110": {
+      "type": "mixedCap",
+      "tubes": [
+        {
+          "capacity": 6,
+          "slots": [
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 6,
+          "slots": [
+            5,
+            4,
+            9,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 6,
+          "slots": [
+            3,
+            5,
+            2,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            9,
+            7,
+            6,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            9,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            8,
+            6,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            3,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            0,
+            9,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            8,
+            2,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            0,
+            0,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            5,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 3,
+          "slots": [
+            2,
+            9
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "127": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 5,
+          "slots": [
+            4,
+            1,
+            0,
+            5,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            4,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            4,
+            5,
+            2,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            0,
+            3,
+            0,
+            3,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            1,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            3,
+            0,
+            1,
+            5,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            2,
+            3,
+            1,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 5,
+          "slots": [
+            3,
+            2
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "128": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            13,
+            6,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            0,
+            10,
+            11
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            2,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            12,
+            7,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            11,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            12,
+            7,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            12,
+            11,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            8,
+            8,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            13,
+            4,
+            5,
+            13
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            13,
+            3,
+            5,
+            12
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            11,
+            9,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            0,
+            7,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            7,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            10,
+            8,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            5,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            10,
+            4
+          ],
+          "hidden": []
+        }
+      ]
+    },
+    "129": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            4,
+            4,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            7,
+            13,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            0,
+            7,
+            11,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            11,
+            10,
+            14
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            0,
+            0,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            8,
+            9,
+            12,
+            4
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            11,
+            8,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            9,
+            12,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            12,
+            5,
+            8,
+            6
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            14,
+            10,
+            11
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            12,
+            13,
+            5,
+            13
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            1,
+            14,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            10,
+            3,
+            6,
+            13
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            9,
+            6,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            14,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
+        }
+      ]
+    },
+    "130": {
+      "type": "normal",
+      "tubes": [
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            1,
+            8,
+            3
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            13,
+            2,
+            7,
+            15
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            7,
+            0,
+            12,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            10,
+            11,
+            0,
+            14
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            9,
+            4,
+            6,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            13,
+            4,
+            1,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            15,
+            6,
+            14,
+            15
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            12,
+            5,
+            13,
+            5
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            1,
+            5,
+            12,
+            1
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            11,
+            2,
+            9,
+            8
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            6,
+            3,
+            0,
+            14
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            5,
+            7,
+            3,
+            2
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            12,
+            8,
+            8,
+            7
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            3,
+            11,
+            11,
+            0
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            2,
+            13,
+            15,
+            10
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [
+            4,
+            4,
+            14,
+            9
+          ],
+          "hidden": []
+        },
+        {
+          "capacity": 4,
+          "slots": [],
+          "hidden": []
         },
         {
           "capacity": 4,
